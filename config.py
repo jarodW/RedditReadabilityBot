@@ -1,0 +1,3 @@
+REDDIT_USERNAME = ""  
+REDDIT_PASS = ""
+BOT_NAME = ""
